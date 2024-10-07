@@ -33,8 +33,8 @@ def sort_on(dict):
 
 def output(dict):
     for key in dict:
-        print(f"The {key} cgaracter was found {dict[key]} times")
-    print(f"---End report---")
+        print(f"The {key} character was found {dict[key]} times")
+    print(f"--- End report ---")
 
          
 word_count()
